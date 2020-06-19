@@ -13,7 +13,7 @@ Most importantly have fun.
 
 <p align="center">
   
-![Video of project running.](https://res.cloudinary.com/dhsqdw1tp/video/upload/v1592529417/CSS_2_kronv8.wmv)
+<img src="images/CSS-2v2.gif" width="200" height="300"/>
 
   </p>
 
