@@ -30,7 +30,7 @@ Most importantly have fun.
   - Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
   - The rows should not cross, or animation conflict in anyway with player item movement.
   <p align="center">
-  <img src="mobile_CSS2.JPG" width="200" height="300"/>
+  <img src="images/mobile_CSS2.JPG" width="200" height="300"/>
   </p>
   ## Tier 2 Special Specifications
   * Player should be able to pause, and resume the game. 
