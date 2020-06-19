@@ -32,6 +32,7 @@ Most importantly have fun.
   <p align="center">
   <img src="images/mobile_CSS2.JPG" width="200" height="300"/>
   </p>
+  
   ## Tier 2 Special Specifications
   * Player should be able to pause, and resume the game. 
   * Enemy fire, is not required for a complete project.
@@ -48,6 +49,7 @@ Most importantly have fun.
  
  - A game start screen, so that the game only starts after player/user pushes some kind of 'start game' button.
  - Add a second interaction between enemy or environment that can remove a players life, resulting in a 'game over' screen.
+ - Add a black and white mode for visual accessability
  - If you'd also like to add some backend, a way for scores to be kept track of and players be able to enter onto a top ten list, tier 3 might be right for you.  
 
 
