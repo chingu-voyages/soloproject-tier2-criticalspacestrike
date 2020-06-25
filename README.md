@@ -8,8 +8,8 @@ Also be aware of producing a strobe lighting effect as you create it, even if yo
 
 
 ## Goal
-Create an arcade style game template in which the player object/image can be moved by the user in a restricted game area, and three rows of enemy objects/images that shift from one side of the game area to the the other in a loop/repeating pattern. Create interaction between the enemy and player images/sprites and let the player have a score for removing enemys from the game screen. Players should be able to pause, and resume game play as well as recieve a screen with some sort of recognition once they've won the game, eliminated all the enemys. 
-Most importantly have fun.
+Create an arcade style game. Players should be able to pause, and resume game play as well as recieve a screen with some sort of recognition once they've won the game, (eliminated all the enemys). 
+Most importantly have fun.  
 
 <p align="center">
   
@@ -34,22 +34,27 @@ Most importantly have fun.
   </p>
   
   ## Tier 2 Special Specifications
-  * Player should be able to pause, and resume the game. 
-  * Enemy fire, is not required for a complete project.
-  * Players should cast out some object to interact with/remove the enemy objects. Code should handle the overlap/collision/proximity of the images being within presence of each other.  
-  * Lives of player being affected by game play is not a requirement for this tier. 
-  * A page/screen change should indicate to player when the game is won.
-  * A score should be visible and change upon the player successfully removing enemy objects.
-  * New game button should reset all game play / score / objects
+ - [ ] Player should be able to pause, and resume the game. 
+ - [ ] Enemy fire, is not required for a complete project.
+ - [ ] Players should cast out some object to interact with/remove the enemy objects. Code should handle the overlap/collision/proximity of the images being within presence of each other.  
+ - [ ] Lives of player being affected by game play is not a requirement for this tier. 
+ - [ ] A page/screen change should indicate to player when the game is won.
+ - [ ] A score should be visible and change upon the player successfully removing enemy objects.
+ - [ ] New game button should reset all game play / score / objects
+ 
+  *Other*
   
-  ## Special notes
+- [ ] Your repo needs to have a robust README.md
+- [ ] Make sure that there are no errors in the developer console before submitting
+
+  ## More(Optional)
   * There is an assets file in this repo for images if you so choose.  You can use whatever image you wish for your player and enemy, but enemys should have a variety of three distinct visual types.  They can be apples, oranges and bananas if you really wish, but that's a lot of fruit. The player object/image can be a ship, or even a fruit bat if you want.  I mean, there is a lot of fruit. 
   
  It is ok if your game resets on refresh.  If you complete the project in plenty of time and wish to add bonus features remember to keep your completed solo submission safe. Here are some suggestions:
  
- - A game start screen, so that the game only starts after player/user pushes some kind of 'start game' button.
- - Add a second interaction between enemy or environment that can remove a players life, resulting in a 'game over' screen.
- - Add a black and white mode for visual accessability
- - If you'd also like to add some backend, a way for scores to be kept track of and players be able to enter onto a top ten list, tier 3 might be right for you.  
+ - [ ] A game start screen, so that the game only starts after player/user pushes some kind of 'start game' button.
+ - [ ] Add a second interaction between enemy or environment that can remove a players life, resulting in a 'game over' screen.
+ - [ ] Add a black and white mode for visual accessability
+ - [ ] If you'd also like to add some backend, a way for scores to be kept track of and players be able to enter onto a top ten list, tier 3 might be right for you.  
 
 
