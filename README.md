@@ -26,7 +26,7 @@ Most importantly have fun.
   - mobile: buttons
 * Player item movement should stay within the game area at all times. The Player item should not be able to cross paths with the enemy items.
 * Three rows of enemy items. Each row should contain at least five enemies.
-  - Each row of enemies should move as the game runs in a repeatitive, or looping manner horizontally across the game screen.
+  - Each row of enemies should move as the game runs in a repetitive, or looping manner horizontally across the game screen.
   - Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
   - The rows should not cross, or animation conflict in anyway with player item movement.
   <p align="center">
