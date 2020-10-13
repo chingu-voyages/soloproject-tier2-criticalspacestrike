@@ -13,7 +13,7 @@ Most importantly have fun.
 
 <p align="center">
   
-<img src="images/output1.gif" width="200" height="300"/>
+<img src="images/output1.gif" width="350" height="400"/>
 
   </p>
 
